@@ -1,0 +1,63 @@
+.main-container {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+
+.slider-img {
+    display: block;
+    margin: auto;
+    height: 100%;
+}
+
+.task-name {
+    margin-bottom: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.application {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.calculator {
+    margin-top: 70px;
+}
+
+#result-area {
+    resize: none;
+    text-align: center;
+}
+
+.control {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.money-input {
+    font-size: large;
+    padding: 2px 0px;
+}
+
+select {
+    border-radius: 5px;
+    font-size: large;
+    padding: 2px 0px
+}
+
+button {
+    font-size: large;
+    color: white;
+    background-color: black;
+    padding: 2px 20px;
+    border-radius: 10px;
+}
